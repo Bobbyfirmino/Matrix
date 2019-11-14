@@ -1,4 +1,10 @@
 Hello!
+
+
+Thsi matrix do belongs to Talha but it's also totally different code.
+And i know the outcomes are same but thanks for the inspiration @talha.
+
+
 This below code is for printing matrix of your chosen number surrounding itself
 and decreasing by 1 and it'll surround itself under the first loop and so on.......
 

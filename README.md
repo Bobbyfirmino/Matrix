@@ -1,7 +1,7 @@
 Hello!
 
 
-Thsi matrix do belongs to Talha but it's also totally different code.
+This matrix do belongs to Talha but it's also totally different code.
 And i know the outcomes are same but thanks for the inspiration @talha.
 
 
@@ -12,7 +12,7 @@ See how it looks
 
 it will work only between 0-9
  
-so please inpul 0-9 only integer
+so please input 0-9 only integer
 
 
 

@@ -3,20 +3,20 @@
 void main()
 
 {
-	
+
 int num,i,j,k,m,c;
 
-printf("Enter any No. between 0-9\n");
+printf("Enter a No. between 1-9\n");
 
 scanf("%d",&num);
 
 
 
-if(num>=0&&num<=9)
+if(num>0&&num<=9)
 {
-	puts("    Your Structure Is Here\n\n");
-	
-	
+	puts("    C O N G R A T U L A T I O N S\n\n");
+
+
 for(i=num,m=num;i>1;i--)
 {
 	for(k=num;k>i-1;k--)
@@ -69,5 +69,5 @@ for(i=1,m=num;i<=num;i++)
 }
 }
 else
-	printf("Please input a number between 0-9");
+	printf("Please input a number between 1-9");
 }
